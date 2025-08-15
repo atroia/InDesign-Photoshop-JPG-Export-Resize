@@ -1,5 +1,5 @@
 /* --------------------------------------
-InDesign to Photoshop JPG Export/Resize
+InDesign to Photoshop JPG Export, Crop, and Resize
 by Aaron Troia (@atroia)
 Modified Date:8/13/25
 
